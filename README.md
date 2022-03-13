@@ -24,10 +24,10 @@ After the woman in black had calmed down, she related how she was worried about 
 
 “Well, I wanted a case,” you thought. “I just wish I had more to go on than a single file.”
 
-With that, you grabbed a Mountain Dew from the noisy little refrigerator under your desk and transferred the file to your GitHub repository in the 'datasets' folder.
+With that, you grabbed a Red Bull® from the noisy little refrigerator under your desk, unzipped the file, and transferred the file to your GitHub repository in the 'datasets' folder.
 
 **INSTRUCTIONS**: *Using just Python and your preferred text editor (no using non-data science tools like Excel) analyze the file to develop a hypothesis about what the woman in black’s husband had been doing. The file is located in the datasets folder. Use statistics and visualizations to support your hypothesis. Use this [notebook](Python_Visualization_Basics.ipynb) to learn more about how to use Python for visualizations. Use the Internet for research. Capture all of your notes and analysis in your [detective's notebook](Detectives_Notebook.ipynb).*
 
 You can use Binder to launch this as a cloud notebook by clicking on this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azbones/data_detective_agency/HEAD?labpath=filepath%3DPython_Visualization_Basics.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azbones/data_detective_agency/HEAD?labpath=filepath=Python_Visualization_Basics.ipynb)
