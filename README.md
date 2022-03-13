@@ -30,4 +30,4 @@ With that, you grabbed a Red Bull® from the noisy little refrigerator under you
 
 You can use Binder to launch this as a cloud notebook by clicking on this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azbones/data_detective_agency/HEAD?labpath=filepath=Python_Visualization_Basics.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azbones/data_detective_agency/HEAD?urlpath=filepath=Python_Visualization_Basics.ipynb)
