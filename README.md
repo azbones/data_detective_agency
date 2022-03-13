@@ -26,7 +26,7 @@ After the woman in black had calmed down, she related how she was worried about 
 
 With that, you grabbed a Mountain Dew from the noisy little refrigerator under your desk and transferred the file to your GitHub repository in the 'datasets' folder for Week 4- Saturday.
 
-**INSTRUCTIONS**: *Using just Python and your preferred text editor (no using non-data science tools like Excel) analyze the file to develop a hypothesis about what the woman in black’s husband had been doing. The file is located in the datasets folder. Use statistics and visualizations to support your hypothesis. Use this [notebook](Python_Visualization_Basics.ipynb) to learn more about how to use Python for visualizations. Use the Internet for research. Capture all of your notes and analysis in your [detective's notebook](Python_Visualization_Basics.ipynb).*
+**INSTRUCTIONS**: *Using just Python and your preferred text editor (no using non-data science tools like Excel) analyze the file to develop a hypothesis about what the woman in black’s husband had been doing. The file is located in the datasets folder. Use statistics and visualizations to support your hypothesis. Use this [notebook](Python_Visualization_Basics.ipynb) to learn more about how to use Python for visualizations. Use the Internet for research. Capture all of your notes and analysis in your [detective's notebook](Detectives_Notebook.ipynb).*
 
 You can use Binder to launch this as a cloud notebook by clicking on this button:
 
